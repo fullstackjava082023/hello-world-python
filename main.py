@@ -1,6 +1,6 @@
 # main method
 def main():
-    hello = "Hello World"
+    hello = "Hello World NEW VERSION!"
     print(hello)
 
 
